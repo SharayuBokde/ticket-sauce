@@ -18,17 +18,12 @@
   </p>
 </p>
 
-## Team
-* <a href="https://github.com/Rutugaglani"><b>Rutu Gaglani</b></a> - Frontend & Graphic Design
-* <a href="https://github.com/SharayuBokde"><b>Sharayu Bokde</b></a> - Frontend & Graphic Design
-* <a href="https://github.com/SakshiUppoor"><b>Sakshi Uppoor</b></a> - Full-stack & Database
-
 ## About the Project
 <p align="center">
 <img style="margin:1em" src="https://imgur.com/42BKsGp.png" width="100%"/>
 </p>
 
-### Pages
+## Pages
 * Login
 * Sign Up
 * Movies 
@@ -38,22 +33,26 @@
 * (Admin Only) Add Movies
 * (Admin Only) Add Shows
 
-### Features
+## Features
+* Clean and simple UI
+* Seat matrix
+* Database Connectivity
 
-##### Clean and simple UI
-
-##### Seat matrix
-
-##### Database Connectivity
-
-### Built With
+## Built With
 * [JavaFX](https://docs.djangoproject.com/en/2.2/) - The framework used
 * [JFoenix](https://github.com/jfoenixadmin/JFoenix) - JavaFX material library
 * [Inkscape](https://inkscape.org/) - Design software for icons
 * [MySQL](https://www.mysql.com/) - Database System
 
-### Built On
+## Built On
 * [Apache NetBeans](https://netbeans.apache.org/download/index.html) - IDE
 * [Scene Builder](https://gluonhq.com/products/scene-builder/) - For designing FXMLs
 * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) - Visual database design tool
 
+## Developed with ❤️ by
+
+**_Rutu Gaglani_** - [Github](https://github.com/rutugaglani) - Frontend & Graphic Design
+
+**_Sakshi Uppoor_** - [Github](https://github.com/SakshiUppoor) - Full-stack & Database
+
+**_Sharayu Bokde_** - [Github](https://github.com/SharayuBokde) - Frontend & Graphic Design
